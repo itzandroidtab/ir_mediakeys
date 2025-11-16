@@ -3,10 +3,8 @@
 
 #include <klib/klib.hpp>
 #include <klib/delay.hpp>
-#include <klib/stream.hpp>
 #include <klib/ringbuffer.hpp>
 #include <klib/usb/device/keyboard.hpp>
-#include <klib/hardware/accelerometer/adxl345.hpp>
 
 #include <io/timer.hpp>
 #include <io/watchdog.hpp>
